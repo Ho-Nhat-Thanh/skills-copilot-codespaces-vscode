@@ -48,7 +48,7 @@ let users = [
     username: 'admin',
     email: 'admin@example.com',
     // Password: 'password123' (hashed)
-    password: '$2a$10$rOCmHpqIhQFN.Xvjq.FECuGtl5aY0Oj0PV/qj0XlqjAq8J6QqRqvK'
+    password: '$2b$10$0uAwxliS4dwaXdHPFQEL0.zapr/Vwzhe/loa7QMO/1NJ40aeWKQJ6'
   }
 ];
 
