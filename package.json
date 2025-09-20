@@ -1,0 +1,13 @@
+{
+  "name": "skills-copilot-codespaces-vscode",
+  "version": "1.0.0",
+  "description": "Financial Banking App - Get balance, withdraw, transfer, and manage term deposits",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": ["banking", "finance", "term-deposit", "money-transfer"],
+  "author": "",
+  "license": "ISC"
+}
